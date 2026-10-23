@@ -1,0 +1,27 @@
+{
+ "ja": [
+  {
+   "k": "ja-stroke",
+   "sha": "b429f2687862e357f050fb5d368f3d9ae27932f8c52e33eb2c5c434e9c638a3c",
+   "n": 916797,
+   "w": "획순(KanjiVG)"
+  }
+ ],
+ "ko": [],
+ "en": [
+  {
+   "k": "en-voc",
+   "sha": "7c12ce7d2a3993d672a896df0957e6df5a5529c53cdcb85d4f9f93ed5b267acf",
+   "n": 2094007,
+   "w": "레벨 단어(wordfreq)"
+  }
+ ],
+ "zh": [
+  {
+   "k": "zh-stroke",
+   "sha": "e98e6d4d02f788e92d4157cd5918502c3fef5ac26232c2ddc6717518b7dda9f4",
+   "n": 4415869,
+   "w": "획순(Make Me a Hanzi)"
+  }
+ ]
+}

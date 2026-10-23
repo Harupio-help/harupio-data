@@ -1,0 +1,18 @@
+{
+ "v": 1,
+ "packs": [
+  {
+   "id": "en-2026-11",
+   "date": "2026-11-01",
+   "title": {
+    "ko": "2026년 11월 · 일과 공부",
+    "en": "November 2026 · Work and study",
+    "ja": "2026年11月・仕事と勉強"
+   },
+   "n": 30,
+   "bytes": 56606,
+   "sha": "ec0c8dd1a35874b9bfb377857e9416969b931a77f0c819e8ef42ddcba296d2fb",
+   "sig": "KKH8EiJk30NZvngwZ2TD8yK5mbnRSBGPt7XxSUkLH3cP9JpbIRpwtttd662I6gVgccuaiNjHmf0w8MG4sLEPBg=="
+  }
+ ]
+}
