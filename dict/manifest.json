@@ -3,5 +3,9 @@
   "sha256": "1af7a9e0a1eca56788c935c49a7bd7b4dcf7d74eeda897b5fcddaf9f202ec940",
   "jmdict": "2026-10-12",
   "rows": 22621
+ },
+ "harupio-dict-ja.json": {
+  "sha256": "8305b9ec2a72ae45ee70d5f0297b6254152ee2279f711df6af5581a103b03c25",
+  "ver": "2026-10-24"
  }
 }
